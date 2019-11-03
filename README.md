@@ -13,3 +13,14 @@ Calling 100, Takes time and sometime You really don't have time To report Even i
 #### We respect Privacy thats why our first motive to make this app is to eliminate Tracking Means That In NO WAY YOU CAN BE TRACKED AFTER REPORTING CRIME. 
 ### But How it will Work?
 Simply You will Take your Mobile Out, login, And report the crime Based on categories ... Using AI we will show you the most Reported crime on top. In your area... As reports kept on increasing Police will get Notified And they will come there Automatically. That means No single Person is responsible For Repoting crime. And this process take less than a minute.
+
+### Header files Used
+```
+* fstream
+* conio
+* stdio
+* process
+* string
+* iomanip
+* dos
+```
