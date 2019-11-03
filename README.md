@@ -33,13 +33,15 @@ Simply You will Take your Mobile Out, login, And report the crime Based on categ
 ![1](https://i.ibb.co/qnhrTK7/3.png)
 ### Home Screen - Main for Citizens 
 ![1](https://i.ibb.co/y0GxM7b/5.png)
-### Home Screen - Main for Citizens 
-![1](https://i.ibb.co/qnhrTK7/3.png)
-### Home Screen - Main for Citizens 
-![1](https://i.ibb.co/qnhrTK7/3.png)
-### Home Screen - Main for Citizens 
-![1](https://i.ibb.co/qnhrTK7/3.png)
-### Home Screen - Main for Citizens 
+### Crime Reporting
+![1](https://i.ibb.co/qnBydQY/6.png)
+### Change Username and Password (Citizen ID Cannot be changed and reused)
+![1](https://i.ibb.co/Tks4vrw/7.png)
+### Home Screen - Main for Police
+![1](https://i.ibb.co/Xj9LGd4/4.png)
+### Screen To see Reported Crime
+![1](https://i.ibb.co/7ShQcFD/8.png)
+
 
 
 
