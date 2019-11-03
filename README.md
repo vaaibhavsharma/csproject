@@ -1,4 +1,4 @@
-# CrowndSourcing Crime
+# CrowdSourcing Crime
 This project is Based on idea of using CrowdSourcing Theory/Concept To Eliminate fear of Reporting Crime To Police. Started With idea This Is Just a C++/ CLI Prototype to what we are thinking, and developed.
 
 ## But Why?
@@ -24,3 +24,4 @@ Simply You will Take your Mobile Out, login, And report the crime Based on categ
 * iomanip
 * dos
 ```
+## Here are some Screenshots!
