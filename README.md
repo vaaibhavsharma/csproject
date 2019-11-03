@@ -27,3 +27,22 @@ Simply You will Take your Mobile Out, login, And report the crime Based on categ
 ## Here are some Screenshots!
 ### Home Screen
 ![1](https://i.ibb.co/m5VJT64/1.png)
+### Sign-Up Screen
+![1](https://i.ibb.co/NxG79q7/2.png)
+### Login Screen
+![1](https://i.ibb.co/qnhrTK7/3.png)
+### Home Screen - Main for Citizens 
+![1](https://i.ibb.co/y0GxM7b/5.png)
+### Home Screen - Main for Citizens 
+![1](https://i.ibb.co/qnhrTK7/3.png)
+### Home Screen - Main for Citizens 
+![1](https://i.ibb.co/qnhrTK7/3.png)
+### Home Screen - Main for Citizens 
+![1](https://i.ibb.co/qnhrTK7/3.png)
+### Home Screen - Main for Citizens 
+
+
+
+
+
+
